@@ -1,3 +1,6 @@
 /packages/
 !packages/repositories.config
 *.suo
+/ImageResizeServer/obj/
+/ImageResizeServer/bin/
+/Deploy/
