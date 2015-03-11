@@ -58,3 +58,5 @@
 \\psf\Home\Documents\Visual Studio 2013\Projects\ImageResizeServer\ImageResizeServer\bin\ImageResizer.Plugins.AdvancedFilters.xml
 \\psf\Home\Documents\Visual Studio 2013\Projects\ImageResizeServer\ImageResizeServer\bin\ImageResizer.Plugins.SeamCarving.xml
 \\psf\Home\Documents\Visual Studio 2013\Projects\ImageResizeServer\ImageResizeServer\obj\Debug\ImageResizeServer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\preadly\ImageResizerServer\ImageResizeServer\obj\Debug\ImageResizeServer.dll
+\\psf\Home\Documents\preadly\ImageResizerServer\ImageResizeServer\obj\Debug\ImageResizeServer.pdb
