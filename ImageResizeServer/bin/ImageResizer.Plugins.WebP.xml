@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageResizer.Plugins.WebP</name>
+    </assembly>
+    <members>
+        <member name="P:ImageResizer.Plugins.WebPEncoder.WebPEncoderPlugin.NoAlpha">
+            <summary>
+            If true, the alpha channel will be ignored, even if present.
+            </summary>
+        </member>
+    </members>
+</doc>

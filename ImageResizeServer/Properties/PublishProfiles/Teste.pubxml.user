@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\psf\Home\Documents\Visual Studio 2013\Projects\ImageResizeServer\Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AForge.dll">
+      <publishTime>03/05/2015 18:07:03</publishTime>
+    </File>
+    <File Include="bin/AForge.Imaging.dll">
+      <publishTime>03/05/2015 18:07:04</publishTime>
+    </File>
+    <File Include="bin/AForge.Math.dll">
+      <publishTime>03/05/2015 18:07:03</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/AWSSDK.dll">
+      <publishTime>03/05/2015 18:10:52</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.dll">
+      <publishTime>03/05/2015 18:04:24</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Mvc.dll">
+      <publishTime>03/05/2015 18:04:36</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.AdvancedFilters.dll">
+      <publishTime>03/10/2015 17:48:12</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.AnimatedGifs.dll">
+      <publishTime>03/05/2015 18:06:32</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.CloudFront.dll">
+      <publishTime>03/05/2015 18:04:47</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.DiskCache.dll">
+      <publishTime>03/05/2015 18:05:38</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.PrettyGifs.dll">
+      <publishTime>03/05/2015 18:06:37</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.S3Reader2.dll">
+      <publishTime>03/05/2015 18:05:25</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.SeamCarving.dll">
+      <publishTime>03/10/2015 17:49:24</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.Watermark.dll">
+      <publishTime>03/05/2015 18:06:51</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.WebP.dll">
+      <publishTime>03/05/2015 18:06:56</publishTime>
+    </File>
+    <File Include="bin/ImageResizer.Plugins.WhitespaceTrimmer.dll">
+      <publishTime>03/05/2015 18:07:04</publishTime>
+    </File>
+    <File Include="bin/ImageResizeServer.dll">
+      <publishTime>03/10/2015 17:55:27</publishTime>
+    </File>
+    <File Include="bin/Imazen.WebP.dll">
+      <publishTime>03/05/2015 18:06:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/05/2015 17:56:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/05/2015 18:01:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/05/2015 17:56:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/05/2015 18:01:31</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/05/2015 18:01:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/10/2015 17:49:25</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>03/05/2015 18:01:37</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>03/05/2015 18:01:37</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>03/05/2015 18:01:37</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>03/05/2015 18:01:45</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>03/05/2015 18:01:38</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/05/2015 18:01:48</publishTime>
+    </File>
+    <File Include="Scripts/respond.matchmedia.addListener.js">
+      <publishTime>03/05/2015 18:01:48</publishTime>
+    </File>
+    <File Include="Scripts/respond.matchmedia.addListener.min.js">
+      <publishTime>03/05/2015 18:01:48</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/05/2015 18:01:48</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/05/2015 18:01:48</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/05/2015 17:56:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/10/2015 17:55:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
