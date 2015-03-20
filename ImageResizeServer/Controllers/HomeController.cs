@@ -18,5 +18,10 @@ namespace ImageResizeServer.Controllers
             return Content("OK");
         }
 
+        public ActionResult Fala()
+        {
+            return Content("OK");
+        }
+
     }
 }
