@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ImageResizeServer.Models;
 
 namespace ImageResizeServer.Controllers
 {
@@ -21,6 +22,16 @@ namespace ImageResizeServer.Controllers
         public ActionResult Fala()
         {
             return Content("OK");
+        }
+
+        public ActionResult Browse(string id, string url)
+        {
+            if (String.IsNullOrEmpty(url))
+               url = id;
+
+            var browser = new WebBrowserJS(url, 1024, 1080);
+            browser.GenerateWebSite();
+            return Content(browser.innerHtml);
         }
 
     }
