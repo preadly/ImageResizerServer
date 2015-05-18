@@ -24,11 +24,9 @@ namespace ImageResizeServer.Controllers
             return Content("OK");
         }
 
-        public ActionResult Browse(string id, string url)
+        public ActionResult Browse(string pathInfo)
         {
-            if (String.IsNullOrEmpty(url))
-               url = id;
-
+            var url = "http://pread.ly/" + pathInfo;
             var browser = new WebBrowserJS(url, 1024, 1080);
             browser.GenerateWebSite();
             return Content(browser.innerHtml);

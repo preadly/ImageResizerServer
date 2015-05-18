@@ -15,8 +15,8 @@ namespace ImageResizeServer
 
             routes.MapRoute(
                 name: "Get",
-                url: "get/{id}",
-                defaults: new { controller = "Home", action = "Browse", id = UrlParameter.Optional }
+                url: "get/{*pathInfo}",
+                defaults: new { controller = "Home", action = "Browse", pathInfo = "" }
             );
 
             routes.MapRoute(
