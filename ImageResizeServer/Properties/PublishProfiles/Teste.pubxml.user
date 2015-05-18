@@ -22,10 +22,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/10/2015 21:58:32</publishTime>
     </File>
     <File Include="bin/AWSSDK.dll">
-      <publishTime>03/20/2015 20:23:54</publishTime>
+      <publishTime>05/18/2015 13:35:22</publishTime>
     </File>
     <File Include="bin/EO.WebBrowser.dll">
-      <publishTime>05/11/2015 13:36:24</publishTime>
+      <publishTime>05/18/2015 13:35:59</publishTime>
     </File>
     <File Include="bin/ImageResizer.dll">
       <publishTime>03/10/2015 21:58:35</publishTime>
@@ -64,7 +64,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/10/2015 21:58:37</publishTime>
     </File>
     <File Include="bin/ImageResizeServer.dll">
-      <publishTime>05/18/2015 12:40:38</publishTime>
+      <publishTime>05/18/2015 13:36:30</publishTime>
     </File>
     <File Include="bin/Imazen.SlimResponse.dll">
       <publishTime>03/11/2015 19:12:41</publishTime>
@@ -145,7 +145,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/05/2015 17:56:31</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>05/11/2015 13:36:28</publishTime>
+      <publishTime>05/18/2015 13:36:01</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/05/2015 18:01:38</publishTime>
@@ -208,7 +208,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/05/2015 17:56:31</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/18/2015 12:42:39</publishTime>
+      <publishTime>05/18/2015 13:36:30</publishTime>
     </File>
   </ItemGroup>
 </Project>
