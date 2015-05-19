@@ -64,7 +64,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/10/2015 21:58:37</publishTime>
     </File>
     <File Include="bin/ImageResizeServer.dll">
-      <publishTime>05/18/2015 13:36:30</publishTime>
+      <publishTime>05/19/2015 17:07:17</publishTime>
     </File>
     <File Include="bin/Imazen.SlimResponse.dll">
       <publishTime>03/11/2015 19:12:41</publishTime>
@@ -208,7 +208,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/05/2015 17:56:31</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/18/2015 13:36:30</publishTime>
+      <publishTime>05/19/2015 16:39:54</publishTime>
     </File>
   </ItemGroup>
 </Project>
