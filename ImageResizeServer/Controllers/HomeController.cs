@@ -16,12 +16,12 @@ namespace ImageResizeServer.Controllers
 
         public ActionResult HeartBeat()
         {
-            return Content("OK");
+            return Content("OK3");
         }
 
         public ActionResult Fala()
         {
-            return Content("OK");
+            return Content("OK3");
         }
 
         public ActionResult Browse(string pathInfo)

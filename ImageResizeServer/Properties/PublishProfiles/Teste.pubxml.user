@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>\\psf\Home\Documents\Visual Studio 2013\Projects\ImageResizeServer\Deploy</_PublishTargetUrl>
+    <_PublishTargetUrl>\\psf\Home\Documents\Deploy</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AForge.dll">
@@ -64,7 +64,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/10/2015 21:58:37</publishTime>
     </File>
     <File Include="bin/ImageResizeServer.dll">
-      <publishTime>05/19/2015 17:07:17</publishTime>
+      <publishTime>05/22/2015 14:19:34</publishTime>
     </File>
     <File Include="bin/Imazen.SlimResponse.dll">
       <publishTime>03/11/2015 19:12:41</publishTime>
@@ -74,6 +74,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>03/10/2015 21:58:45</publishTime>
+    </File>
+    <File Include="bin/NewRelic.Api.Agent.dll">
+      <publishTime>05/22/2015 14:12:26</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>03/10/2015 21:58:46</publishTime>
@@ -145,7 +148,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/05/2015 17:56:31</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>05/18/2015 13:36:01</publishTime>
+      <publishTime>05/22/2015 14:12:27</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/05/2015 18:01:38</publishTime>
@@ -208,7 +211,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/05/2015 17:56:31</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/19/2015 16:39:54</publishTime>
+      <publishTime>05/22/2015 15:00:52</publishTime>
     </File>
   </ItemGroup>
 </Project>
